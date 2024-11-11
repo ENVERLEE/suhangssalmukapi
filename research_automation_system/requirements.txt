@@ -1,0 +1,18 @@
+fastapi
+uvicorn
+sqlalchemy
+psycopg2-binary
+redis
+aiohttp
+python-dotenv
+openai # Perplexity API용
+cohere
+langchain
+numpy
+pydantic
+python-multipart
+pytest
+pytest-asyncio
+python-jose
+passlib
+langchain-community
